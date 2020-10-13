@@ -46,6 +46,7 @@ $(function(){
 					+ ", " + errorthrown);
 		}
 	}); //진료과목 리스트 : e
+	//test
 	
 	//최근 등록한 공지글 5개 출력되게 함
 	$.ajax({
