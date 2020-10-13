@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>DANAA</title>
+<title>DANAAA</title>
 </head>
 <body>
 	<jsp:forward page="main.do"></jsp:forward>
